@@ -1,5 +1,10 @@
 name: Liz Art monitoring
 
+on:
+  push:
+    branches:
+      - main
+
 jobs:
   cypress-tests:
     name: Run Cypress Tests
