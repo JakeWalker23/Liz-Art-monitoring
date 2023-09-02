@@ -4,7 +4,7 @@ module.exports = defineConfig({
   e2e: {
     baseUrl: "https://staging.lizzyshort.com",
     setupNodeEvents(on, config) {
-      // implement node event listeners here
+
     },
   },
 });
