@@ -1,0 +1,22 @@
+{
+  "name": "liz-art-monitoring",
+  "version": "1.0.0",
+  "description": "monitoring repo for Liz Art",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeWalker23/Liz-Art-monitoring.git"
+  },
+  "author": "Jake Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeWalker23/Liz-Art-monitoring/issues"
+  },
+  "homepage": "https://github.com/JakeWalker23/Liz-Art-monitoring#readme",
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+}
