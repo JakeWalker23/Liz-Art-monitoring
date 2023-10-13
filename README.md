@@ -6,4 +6,17 @@ This repository uses an automated UI test to monitor a critical user path on sta
 
 Critical Paths covered:
 
-    - Add product to cart and checkout securely
+- Add product to cart and checkout securely
+
+
+
+## Running locally
+```
+npx cypress test
+```
+
+
+## Open Cypress & run
+```
+npx cypress open
+```
